@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1ce8c2d6-1887-49c9-b1ad-d70795939a38}">
+		<property name="assetPath">
+			<value>tavern/people_tavern.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>129.42133333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2a487dda-c3b8-4eff-ad2c-39be76cca4c4}</destination>
+		</relationship>
+	</object>
+</objects>

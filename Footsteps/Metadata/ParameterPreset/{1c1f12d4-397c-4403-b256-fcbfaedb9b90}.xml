@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{1c1f12d4-397c-4403-b256-fcbfaedb9b90}">
+		<property name="name">
+			<value>podloga</value>
+		</property>
+		<relationship name="folder">
+			<destination>{298ecfcd-a83e-446e-9f86-dfbb1c42cdb0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9eed7b75-abd8-4a6c-ae44-fed727337cdd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9eed7b75-abd8-4a6c-ae44-fed727337cdd}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>wood</value>
+			<value>stone</value>
+			<value>Value C</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
