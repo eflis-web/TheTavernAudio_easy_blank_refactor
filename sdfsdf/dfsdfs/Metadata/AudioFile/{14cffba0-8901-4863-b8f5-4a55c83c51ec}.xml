@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{14cffba0-8901-4863-b8f5-4a55c83c51ec}">
+		<property name="assetPath">
+			<value>amb_fire.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>146.624</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c7538a90-3a2f-43fa-b017-5565928d86ca}</destination>
+		</relationship>
+	</object>
+</objects>
