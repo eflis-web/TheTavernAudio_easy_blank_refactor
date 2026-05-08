@@ -70,7 +70,7 @@ MonoBehaviour:
   Path: sdfsdf/dfsdfs/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639129775618293522
+  lastModified: 639138310920148295
   FileSizes:
   - Name: Desktop
     Value: 7685600
@@ -343,7 +343,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 3067169333495411688}
   cacheVersion: 131859
-  cacheTime: 639129775618303526
+  cacheTime: 639138310920158325
   SerializableEventsDict:
   - key: event:/dfgdfgdfg
     index: 0
@@ -499,7 +499,7 @@ MonoBehaviour:
   Path: sdfsdf/dfsdfs/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639129775618303526
+  lastModified: 639138310920158325
   FileSizes:
   - Name: Desktop
     Value: 1288

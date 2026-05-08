@@ -26,7 +26,7 @@ public class VCA : MonoBehaviour
     void Start()
     {
         // Pobiera VCAs z FMOD.
-        globalVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Mute");
+        globalVCA = FMODUnity.RuntimeManager.GetVCA("vca:/gglobal");
         musicVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Music");
         tavernVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Tavern_amb");
         outsideVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Outside_amb");
@@ -41,6 +41,7 @@ public class VCA : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.U))
         {
             ToggleMute(globalVCA, ref globalMuteActive);
+            Debug.Log("works");
         }
         if (Input.GetKeyDown(KeyCode.I))
         {
